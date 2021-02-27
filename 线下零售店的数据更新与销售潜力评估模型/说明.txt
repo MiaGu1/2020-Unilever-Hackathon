@@ -1,0 +1,8 @@
+一、“49virus_killers代码”文件夹：
+01_数据获取.ipynb是基本信息数据获取的python代码
+02_特征获取.ipynb是特征数据获取的python代码
+03_店铺匹配.ipynb是门店匹配时的python代码
+04_model-XgBoost-LGBM.ipynb是模型XgBoost和LGBM的python代码
+05_sales.R是多元线性回归模型的R语言代码
+二、收集数据.csv：是本队伍最终收集到的所有数据
+三、预测销量.xlsx：包含三个模型的预测值及最终模型融合后的预测值
